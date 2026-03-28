@@ -32,12 +32,8 @@ Current Progress: Planning
 
 [] Release first revision of physical attack for additional external support and development (Move on to V2 with tighter timings and more refined design)
 
-Planned Features -Consistent Boot Times: Automates the Bliss exploit chain for reliable boot sequences. -QSB (Quick Solder Board) Architecture: Custom-designed to sit flush on the motherboard, minimizing messy wire runs and making installation cleaner. -100% Open Source: All Gerber files, schematics, and injection code will be fully open-sourced upon version 1.0 completion.
-
 Follow the Journey? Want to see the smoke, the failures, and the eventual successes? The entire development process, including deep dives into the Xbox One's architecture and the Bliss exploit, is being documented on YouTube!
 
 Subscribe and watch the progress: GFL_Tech on YouTube (http://www.youtube.com/@GFL_Tech)
-
-However, if you are an experienced hardware reverse engineer or developer looking to collaborate on timing glitches or payload optimization, please open an Issue with the tag [DEV COLLAB] and a brief summary of your background.
 
 Shoutout to "Markus 'doom' Gaasedelen" who originally discovered the Bliss vulnerability. We are just building the bridge!
