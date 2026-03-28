@@ -12,7 +12,7 @@ Current Progress: Planning
 
 [x] Understanding the hack (Roadmap for prototype Github)
 
-[] Unbox a Day One Edition Xbox One (2013 Test subject)
+[x] Unbox a Day One Edition Xbox One (2013 Test subject)
 
 [] Circuit design (3 Required signals + Reset automation)
 
