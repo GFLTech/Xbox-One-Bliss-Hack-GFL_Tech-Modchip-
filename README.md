@@ -15,7 +15,10 @@ Current Progress: Planning
 [x] Unbox a Day One Edition Xbox One (2013 Test subject)
 
 [] Circuit design (3 Required signals + Reset automation)
-
+    [X] Test TLV3201 circuit 
+    [] Create a QSB for EFUSE Sidechannel 
+    [] tune pull up resistor & pull down resistor values (Noise Reduction)
+    
 [] Code for automation and timing tests
 
 [] Build the circuit and test functionality
